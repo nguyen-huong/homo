@@ -58,3 +58,8 @@ Contributions: Outlined practical workflows for conducting reverse-lookup lookal
 .
 Repository: Accessible at varrickkoh/IDN-Homograph-Detector
 .
+
+
+https://github.com/Akshat4112/Glyphnet/tree/master
+https://www.kaggle.com/datasets/alishan07/adversarial-homograph-detection
+
