@@ -1,0 +1,27 @@
+Domain,Is_Homoglyph,Base_Skeleton,Targeted_Brand_Detected,Substitutions_Identified,Techniques
+аpple.com,YES,apple.com,apple,а (U+0430) -> a (U+0061),Single-Character Cross-Script
+fасebook.com,YES,facebook.com,facebook,а (U+0430) -> a (U+0061); с (U+0441) -> c (U+0063),Single-Character Cross-Script
+wikipediа.org,YES,wikipedia.org,wikipedia,а (U+0430) -> a (U+0061),Single-Character Cross-Script
+bınance.com,NO,bınance.com,None,None,None
+gmaıl.com,NO,gmaıl.com,None,None,None
+paypaɩ.com,NO,paypaɩ.com,None,None,None
+coınbase.com,NO,coınbase.com,None,None,None
+ınstagram.com,NO,ınstagram.com,None,None,None
+telegrаm.org,YES,telegram.org,telegram,а (U+0430) -> a (U+0061),Single-Character Cross-Script
+micrоsoft.com,YES,microsoft.com,microsoft,о (U+043E) -> o (U+006F),Single-Character Cross-Script
+spоtify.com,YES,spotify.com,spotify,о (U+043E) -> o (U+006F),Single-Character Cross-Script
+netflıx.com,NO,netflıx.com,None,None,None
+tiktoḳ.com,YES,tiktok.com,tiktok,ḳ (U+1E33) -> k (U+006B),Single-Character (Diacritic)
+facébook.com,YES,facebook.com,facebook,é (U+00E9) -> e (U+0065),Single-Character (Diacritic)
+arkhamintellîgence.com,YES,arkhamintelligence.com,None,î (U+00EE) -> i (U+0069),Single-Character (Diacritic)
+ģmail.com,YES,gmail.com,gmail,ģ (U+0123) -> g (U+0067),Single-Character (Diacritic)
+gmàil.com,YES,gmail.com,gmail,à (U+00E0) -> a (U+0061),Single-Character (Diacritic)
+gmaiĺ.com,YES,gmail.com,gmail,ĺ (U+013A) -> l (U+006C),Single-Character (Diacritic)
+yàhoo.com,YES,yahoo.com,yahoo,à (U+00E0) -> a (U+0061),Single-Character (Diacritic)
+youtubê.com,YES,youtube.com,youtube,ê (U+00EA) -> e (U+0065),Single-Character (Diacritic)
+expansión.com,YES,expansion.com,None,ó (U+00F3) -> o (U+006F),Single-Character (Diacritic)
+rnicrosoft.com,YES,microsoft.com,microsoft,rn (U+0072 U+006E) -> m (U+006D),Composite (ASCII)
+clown.com,YES,down.com,None,cl (U+0063 U+006C) -> d (U+0064),Composite (ASCII)
+cllntothethickof.com,YES,dlntothethickof.com,None,cl (U+0063 U+006C) -> d (U+0064),Composite (ASCII)
+vviki.com,YES,wiki.com,None,vv (U+0076 U+0076) -> w (U+0077),Composite (ASCII)
+block-sales.com,YES,bbck-sales.com,None,lo (U+006C U+006F) -> b (U+0062),Composite (ASCII)
